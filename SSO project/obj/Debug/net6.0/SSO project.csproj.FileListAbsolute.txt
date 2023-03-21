@@ -1,0 +1,26 @@
+C:\Users\Administrator\source\repos\SSO project\SSO project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\source\repos\SSO project\SSO project\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\source\repos\SSO project\SSO project\bin\Debug\net6.0\SSO project.staticwebassets.runtime.json
+C:\Users\Administrator\source\repos\SSO project\SSO project\bin\Debug\net6.0\SSO project.exe
+C:\Users\Administrator\source\repos\SSO project\SSO project\bin\Debug\net6.0\SSO project.deps.json
+C:\Users\Administrator\source\repos\SSO project\SSO project\bin\Debug\net6.0\SSO project.runtimeconfig.json
+C:\Users\Administrator\source\repos\SSO project\SSO project\bin\Debug\net6.0\SSO project.dll
+C:\Users\Administrator\source\repos\SSO project\SSO project\bin\Debug\net6.0\SSO project.pdb
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\SSO project.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\SSO project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\SSO project.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\SSO project.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\SSO project.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\SSO project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\SSO project.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\SSO project.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\scopedcss\bundle\SSO project.styles.css
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\scopedcss\projectbundle\SSO project.bundle.scp.css
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\SSO project.dll
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\refint\SSO project.dll
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\SSO project.pdb
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\SSO project.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\SSO project\SSO project\obj\Debug\net6.0\ref\SSO project.dll

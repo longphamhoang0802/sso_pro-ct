@@ -1,0 +1,28 @@
+﻿@model Account
+
+
+@{
+}
+@using(Html.BeginForm("Login","Login",FormMethod.Post))
+{
+    <!-- UserName input -->
+    <div class="form-group">
+        @Html.LabelFor(m => m.userName)
+        @Html.TextBoxFor(m => m.userName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.userName)
+    </div>
+
+    <!-- Password input -->
+    <div class="form-group">
+        @Html.LabelFor(m => m.password)
+        @Html.TextBoxFor(m => m.password, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.password)
+    </div>
+
+    <div>
+    <!-- Submit button -->
+    <button type="submit" class="btn btn-primary btn-block mb-4">Sign in</button>
+      
+    </div>
+ 
+}
