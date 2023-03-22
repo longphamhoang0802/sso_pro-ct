@@ -1,6 +1,31 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model IEnumerable<Account>
 @{
+    var objs = Model;
 }
 <h1>Chúc mừng</h1>
+
+<table class="table table-bordered table-striped" style="width:100%"
+    <thead>
+        <tr>
+            <th>
+                User Name
+            </th>
+            <th>
+                Password
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in objs)
+        {
+                <tr>
+                    <td width="40%">
+                    @obj.userName
+                    </td>
+                    <td width="40%">
+                    @obj.password
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>
